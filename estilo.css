@@ -1,0 +1,142 @@
+body{
+    background-color: black;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,1), rgba (0,0,0,0)); 
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/87a1d9d8-a21d-4109-ba3a-c10d9055f5cf/0099f9d8-1058-4e52-a3cc-fc1cb95d31f1/BR-pt-20220307-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+
+}
+
+.entrar{
+    background-color: black;
+    width: 450px;
+    height: 660px;
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin: auto;
+}
+
+
+.frase1{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 40px 0 0 75px;
+}
+
+.netflixlogo{
+    width: 190px;
+    height: 100px;
+    margin: -30px 0px 0px 30px;
+    position: block;
+
+}
+
+.form{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background: gray;
+    color: WHITE;
+}
+
+.botao{
+    background: red;
+    color: white;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: none;
+    border-top: 50px;
+    cursor: pointer;
+}
+
+.lembrar{
+    color: white;
+    margin: 20px 0 0 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.lembrar2{
+    color: gray;
+    margin: 0 0 0 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+
+.lembrar3{
+    color: gray;
+    margin: 0 0 0 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.facebook{
+    color: gray;
+    margin: 50px 0 0 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    
+}
+
+.facebook2{
+    color: gray;
+    margin: 0px 0 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.imgface{
+    width: 10px;
+    height: 10px;
+}
+
+.novogeral{
+    display: inline-block;
+}
+
+.novo{
+    color: gray;
+    display: inline-block;
+    margin: 20px 0 0 75px;
+}
+
+.novo2{
+    color: white;
+    display: inline-block;
+    margin: 0px 0px 0px 100px;
+    cursor: pointer;
+}
+
+.novo3{
+    width: 300px;
+    color: gray;
+    display: inline-block;
+    margin: 40px 0 0 75px;
+}
+
+.saibamais{
+    color: rgb(0, 106, 245);
+    cursor: pointer;
+    margin: 30px 0 0 75px;
+}
+
+
+
+#teste{position:relative}
+#teste:hover{top:-2px;box-shadow:0 2px 2px #666}
